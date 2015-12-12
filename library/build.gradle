@@ -22,7 +22,7 @@ publish {
     userOrg = 'commit111'
     groupId = 'com.commit111'
     artifactId = 'PhotoViewEx'
-    version = '1.2.4'
+    version = '1.1.1'
     description = 'Implementation of ImageView for Android that supports zooming, by various touch gestures.'
     website = 'https://github.com/xxl6097/PhotoView'
     issueTracker = "https://github.com/xxl6097/PhotoView/issues"
